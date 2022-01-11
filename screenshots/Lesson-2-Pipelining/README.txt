@@ -1,0 +1,1 @@
+https://github.com/pullmana8/static.git
